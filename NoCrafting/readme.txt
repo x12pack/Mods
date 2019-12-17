@@ -25,7 +25,8 @@ quests.xml - This file is important to the "no crafting" mod, unless you just
 		It rewards you with 4 skill points and 700xp. Trader quest grants
 		one additional skill point.
 
-recipes.xml - This file is very important to the "no crafting" mod. It removes ALL crafting recipes, 	rendering you literally unable to craft.
+recipes.xml - This file is very important to the "no crafting" mod. It removes ALL crafting recipes,
+	rendering you literally unable to craft.
 		*I had to leave in all the item modification items, i.e. 2xScope,
 		Semi-auto trigger, etc., otherwise the trader will sell them for
 		0 cost. I'm not sure why it does that, but mitigation for this
