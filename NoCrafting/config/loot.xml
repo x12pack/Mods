@@ -13,7 +13,7 @@
 	<item group="groupAmmoRegular" count="2,3" prob="5"/>
 	<item group="groupWeaponsScaled" prob="1.4"/>
 	<item name="apparelNightvisionGoggles" loot_prob_template="probTemplate1.0"/>
-	<item name="oldCash" count="500,900" prob="0.5"/>
+	<item name="oldCash" count="100,500" prob="0.5"/>
 	<item group="rareMedicine" count="1,2" prob="0.25"/>
 	<item name="drugSteroids" count="2,3" prob="1.75"/>
 	<item group="groupTreasureMaps" prob="0.25"/>
@@ -38,14 +38,14 @@
 	<item group="cannedfood" count="1,2" prob=".5"/>
 	<item name="woodFrameBlockVariantHelper" count="10,30" prob=".5"/>
 	<item name="resourceRepairKit" count="1,4" prob=".5"/>
-	<item name="oldCash" count="500,900" prob=".75"/>
+	<item name="oldCash" count="300,900" prob=".75"/>
 </lootcontainer>
 
 <!-- EntityLootContainerLab, rare random drop from lab technician -->
 <lootcontainer id="133" count="2,4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
 	<item group="labEquipment" prob="2.75"/>
 	<item group="cannedfood" count="1,2" prob=".5"/>
-	<item name="oldCash" count="500,900" prob=".75"/>
+	<item name="oldCash" count="200,400" prob=".75"/>
 </lootcontainer>
 
 <!-- EntityLootContainerFestus, rare random drop from old timer -->
@@ -75,7 +75,7 @@
 
 <!-- EntityLootContainerSuit, rare random drop from business man -->
 <lootcontainer id="137" count="2,4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
-	<item name="casinoCoin" count="200,410" prob="6"/>
+	<item name="casinoCoin" count="200,1410" prob="6"/>
 	<item name="oldCash" count="500,1500" prob="6"/>
 	<item group="groupApparelSuit" prob="2.5"/>
 </lootcontainer>
