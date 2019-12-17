@@ -1,0 +1,37 @@
+<config>
+
+	<set xpath="/progression/attributes/@cost_multiplier_per_level">1</set>
+
+	<set xpath="/progression/attributes/attribute[@name='attPerception']/level_requirements[@level='6']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attPerception']/level_requirements[@level='7']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attPerception']/level_requirements[@level='8']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attPerception']/level_requirements[@level='9']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attPerception']/level_requirements[@level='10']/requirement/@desc_key">reqGenericPoints01</set>
+
+	<set xpath="/progression/attributes/attribute[@name='attStrength']/level_requirements[@level='6']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attStrength']/level_requirements[@level='7']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attStrength']/level_requirements[@level='8']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attStrength']/level_requirements[@level='9']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attStrength']/level_requirements[@level='10']/requirement/@desc_key">reqGenericPoints01</set>
+
+	<set xpath="/progression/attributes/attribute[@name='attFortitude']/level_requirements[@level='6']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attFortitude']/level_requirements[@level='7']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attFortitude']/level_requirements[@level='8']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attFortitude']/level_requirements[@level='9']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attFortitude']/level_requirements[@level='10']/requirement/@desc_key">reqGenericPoints01</set>
+
+	<set xpath="/progression/attributes/attribute[@name='attAgility']/level_requirements[@level='6']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attAgility']/level_requirements[@level='7']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attAgility']/level_requirements[@level='8']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attAgility']/level_requirements[@level='9']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attAgility']/level_requirements[@level='10']/requirement/@desc_key">reqGenericPoints01</set>
+
+	<set xpath="/progression/attributes/attribute[@name='attIntellect']/level_requirements[@level='6']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attIntellect']/level_requirements[@level='7']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attIntellect']/level_requirements[@level='8']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attIntellect']/level_requirements[@level='9']/requirement/@desc_key">reqGenericPoints01</set>
+	<set xpath="/progression/attributes/attribute[@name='attIntellect']/level_requirements[@level='10']/requirement/@desc_key">reqGenericPoints01</set>
+
+
+
+</config>

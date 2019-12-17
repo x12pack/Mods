@@ -1,0 +1,87 @@
+<config>
+
+	<setattribute xpath="/lootcontainers/lootcontainer[@id='10']" name="destroy_on_close">true</setattribute>  <!-- garbage -->
+
+	<append xpath="lootcontainers">
+
+<!-- EntityLootContainerSoldier, rare random drop from Eddie -->
+<lootcontainer id="130" count="2,4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
+	<item group="groupArmorScaled" prob="0.75"/>
+	<item name="resourceMilitaryFiber" count="3,6" prob="1.5"/>
+	<item name="armorSwatHelmet" mods="modArmorHelmetLight" mod_chance=".8" prob="0.15"/>
+	<item group="groupApparelHazmat" prob="0.25"/>
+	<item group="groupAmmoRegular" count="2,3" prob="5"/>
+	<item group="groupWeaponsScaled" prob="1.4"/>
+	<item name="apparelNightvisionGoggles" loot_prob_template="probTemplate1.0"/>
+	<item name="oldCash" count="500,900" prob="0.5"/>
+	<item group="rareMedicine" count="1,2" prob="0.25"/>
+	<item name="drugSteroids" count="2,3" prob="1.75"/>
+	<item group="groupTreasureMaps" prob="0.25"/>
+	<item group="groupQuestChallenge" prob="0.25"/>
+	<item group="groupModAllScaled" prob="1"/>
+	<item group="vehicleParts" loot_prob_template="probTemplate1.0"/>
+	<item name="armorMilitarySetParts" count="1,4" prob=".75"/>
+</lootcontainer>
+
+<!-- EntityLootContainerNurse, rare random drop from Sylvia -->
+<lootcontainer id="131" count="2,4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
+	<item group="survivalMedical" prob="1"/>
+	<item group="medicine" prob="1"/>
+	<item group="cannedfood" count="1,2" prob="1.7"/>
+	<item name="oldCash" count="100,200" prob="1.5"/>
+</lootcontainer>
+
+<!-- EntityLootContainerBob, rare random drop from construction worker -->
+<lootcontainer id="132" count="2,4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
+	<item group="tools" prob="2.5"/>
+	<item group="electricalDevices" prob=".7"/>
+	<item group="cannedfood" count="1,2" prob=".5"/>
+	<item name="woodFrameBlockVariantHelper" count="10,30" prob=".5"/>
+	<item name="resourceRepairKit" count="1,4" prob=".5"/>
+	<item name="oldCash" count="500,900" prob=".75"/>
+</lootcontainer>
+
+<!-- EntityLootContainerLab, rare random drop from lab technician -->
+<lootcontainer id="133" count="2,4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
+	<item group="labEquipment" prob="2.75"/>
+	<item group="cannedfood" count="1,2" prob=".5"/>
+	<item name="oldCash" count="500,900" prob=".75"/>
+</lootcontainer>
+
+<!-- EntityLootContainerFestus, rare random drop from old timer -->
+<lootcontainer id="134" count="2,4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
+	<item group="rareOres" prob="1.75"/>
+	<item group="groupTreasureMaps" prob="1.6"/>
+	<item group="groupQuestChallenge" prob="0.6"/>
+	<item group="cannedfood" count="1,2" prob=".5"/>
+	<item name="meleeToolPickaxeIron" prob="1.5"/>
+	<item name="meleeToolShovelIron" prob="1.5"/>
+</lootcontainer>
+
+<!-- EntityLootContainerHazmat, rare random drop from hazmat suit guy -->
+<lootcontainer id="135" count="2,4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
+	<item group="groupApparelHazmat" prob="2.25"/>
+	<item group="groupApparelClothes" prob="1.5"/>
+	<item group="groupAmmoRegular" count="1,2" prob=".5"/>
+</lootcontainer>
+
+<!-- EntityLootContainerFarmer, rare random drop from farmer -->
+<lootcontainer id="136" count="2,4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
+	<item group="rareFoodDrink" prob="0.25"/>
+	<item group="seeds" prob="2.25"/>
+	<item group="farmCrops" prob="1.75"/>
+	<item name="apparelOveralls" prob="1"/>
+</lootcontainer>
+
+<!-- EntityLootContainerSuit, rare random drop from business man -->
+<lootcontainer id="137" count="2,4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
+	<item name="casinoCoin" count="200,410" prob="6"/>
+	<item name="oldCash" count="500,1500" prob="6"/>
+	<item group="groupApparelSuit" prob="2.5"/>
+</lootcontainer>
+
+
+	</append>
+
+
+</config>

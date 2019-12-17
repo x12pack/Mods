@@ -1,0 +1,22 @@
+<config>
+
+	<remove xpath="/quests/quest[@id='quest_BasicSurvival1']" />
+	<remove xpath="/quests/quest[@id='quest_BasicSurvival2']/objective[@type='Craft']" />
+
+	<!-- Basic Survival 2 - Craft a Stone Axe /> -->
+	<set xpath="/quests/quest[@id='quest_BasicSurvival2']/@id">quest_BasicSurvival1</set>
+	<insertAfter xpath="/quests/quest[@id='quest_BasicSurvival1']/property[@name='shareable']">
+		<action type="ShowTip" value="tutorialTipQuest02" />
+		<action type="TrackQuest" />
+	</insertAfter>
+	<set xpath="/quests/quest[@id='quest_BasicSurvival1']/reward[@type='Exp']/@value">700</set>
+	<append xpath="/quests/quest[@id='quest_BasicSurvival1']">
+		<reward type="SkillPoints" value="4" />
+	</append>
+	<set xpath="/quests/quest[@id='quest_BasicSurvival1']/reward[@type='Quest']/@id">quest_whiteRiverCitizen1</set>
+
+
+	<append xpath="/quests/quest[@id='quest_whiteRiverCitizen1']">
+		<reward type="SkillPoints" value="1" />
+	</append>
+</config>

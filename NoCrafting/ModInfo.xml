@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="12pack NoCrafting" />
+		<Description value="Forced NoCrafting plus some QoL for Solo player." />
+		<Author value="12pack" />
+		<Version value="18.2.5s" />
+	</ModInfo>
+</xml>

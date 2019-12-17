@@ -1,0 +1,493 @@
+<config>
+
+	<set xpath="/recipes">
+
+		<recipe name="modArmorAdvancedMuffledConnectors" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceDuctTape" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="60"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+<recipe name="modArmorBandolier" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceLeather" count="15"/>
+	<ingredient name="resourceGlue" count="3"/>
+	<ingredient name="resourceScrapPolymers" count="2"/>
+	<ingredient name="resourceCloth" count="10"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+<recipe name="modArmorCoolingMesh" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceGlue" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="2"/>
+	<ingredient name="resourceOil" count="2"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+<recipe name="modArmorCustomizedFittings" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceLeather" count="8"/>
+	<ingredient name="resourceDuctTape" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="8"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+<recipe name="modArmorDoubleStoragePocket" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceLeather" count="8"/>
+	<ingredient name="resourceDuctTape" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="15"/>
+	<ingredient name="resourceMechanicalParts" count="4"/>
+	<ingredient name="resourceSewingKit" count="2"/>
+</recipe>
+
+<recipe name="modArmorHelmetLight" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceDuctTape" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="2"/>
+	<ingredient name="meleeToolFlashlight02" count="1"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+<recipe name="modFuelTankSmall" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceDuctTape" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="2"/>
+	<ingredient name="ammoGasCan" count="10"/>
+</recipe>
+
+<recipe name="modFuelTankLarge" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceDuctTape" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="2"/>
+	<ingredient name="ammoGasCan" count="10"/>
+</recipe>
+
+<recipe name="modArmorImpactBracing" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceDuctTape" count="2"/>
+	<ingredient name="resourceSpring" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="20"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+<recipe name="modArmorImprovedFittings" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceLeather" count="4"/>
+	<ingredient name="resourceDuctTape" count="1"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="4"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+<recipe name="modArmorInsulatedLiner" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceCloth" count="10"/>
+	<ingredient name="resourceDuctTape" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="2"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+<recipe name="modArmorMuffledConnectors" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="4"/>
+	<ingredient name="resourceDuctTape" count="1"/>
+	<ingredient name="resourceScrapPolymers" count="30"/>
+	<ingredient name="resourceMechanicalParts" count="4"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+<recipe name="modArmorPlatingBasic" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourceOil" count="2"/>
+	<ingredient name="resourceDuctTape" count="2"/>
+	<ingredient name="resourceMechanicalParts" count="2"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+<recipe name="modArmorPlatingReinforced" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceScrapIron" count="10"/>
+	<ingredient name="resourceDuctTape" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="2"/>
+	<ingredient name="resourceMechanicalParts" count="2"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+<recipe name="modArmorStoragePocket" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceLeather" count="6"/>
+	<ingredient name="resourceDuctTape" count="1"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourceMechanicalParts" count="4"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+<recipe name="modArmorTripleStoragePocket" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceLeather" count="10"/>
+	<ingredient name="resourceDuctTape" count="3"/>
+	<ingredient name="resourceScrapPolymers" count="20"/>
+	<ingredient name="resourceMechanicalParts" count="4"/>
+	<ingredient name="resourceSewingKit" count="3"/>
+</recipe>
+
+<recipe name="modArmorWaterPurifier" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceDuctTape" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourceCoal" count="30"/>
+	<ingredient name="resourceSewingKit" count="1"/>
+</recipe>
+
+	<recipe name="modGunMeleeBlessedMetal" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+	<!--<recipe name="modGunMeleeFeelTheHeat" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>-->
+
+<recipe name="modGunBarrelExtender" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceOil" count="2"/>
+	<ingredient name="resourceMechanicalParts" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="5"/>
+</recipe>
+
+<recipe name="modGunDrumMagazineExtender" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="20"/>
+	<ingredient name="resourceOil" count="4"/>
+	<ingredient name="resourceMechanicalParts" count="4"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+</recipe>
+
+<recipe name="modGunBipod" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunBowArrowRest" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunBowPolymerString" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunChoke" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunCrippleEm" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunDuckbill" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunFlashlight" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceScrapPolymers" count="10"/>
+	<ingredient name="resourceGlue" count="2"/>
+	<ingredient name="meleeToolFlashlight02" count="1"/>
+	<ingredient name="resourceElectricParts" count="5"/>
+</recipe>
+
+<recipe name="modGunForegrip" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunLaserSight" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceGlue" count="2"/>
+	<ingredient name="resourceMechanicalParts" count="2"/>
+	<ingredient name="resourceElectricParts" count="10"/>
+</recipe>
+
+<recipe name="modGunMagazineExtender" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunShotgunTubeExtenderMagazine" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunMeleeRadRemover" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunMeleeTheHunter" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunMuzzleBrake" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceOil" count="2"/>
+	<ingredient name="resourceMechanicalParts" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="5"/>
+</recipe>
+
+<recipe name="modGunReflexSight" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceElectricParts" count="10"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+</recipe>
+
+<recipe name="modGunRetractingStock" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunRodAndSpring" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modGunScopeLarge" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceBrokenGlass" count="20"/>
+	<ingredient name="resourceScrapPolymers" count="10"/>
+</recipe>
+
+<recipe name="modGunScopeMedium" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceGlue" count="3"/>
+	<ingredient name="resourceBrokenGlass" count="15"/>
+	<ingredient name="resourceScrapPolymers" count="8"/>
+</recipe>
+
+<recipe name="modGunScopeSmall" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="10"/>
+	<ingredient name="resourceGlue" count="2"/>
+	<ingredient name="resourceBrokenGlass" count="10"/>
+	<ingredient name="resourceScrapPolymers" count="5"/>
+</recipe>
+
+<recipe name="modGunSoundSuppressorSilencer" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="10"/>
+	<ingredient name="resourceOil" count="2"/>
+	<ingredient name="resourceMechanicalParts" count="2"/>
+	<ingredient name="resourceScrapPolymers" count="5"/>
+</recipe>
+
+<recipe name="modGunTriggerGroupAutomatic" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceScrapPolymers" count="5"/>
+</recipe>
+
+<recipe name="modGunTriggerGroupBurst3" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceScrapPolymers" count="5"/>
+</recipe>-->
+
+<recipe name="modGunTriggerGroupSemi" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="10"/>
+	<ingredient name="resourceScrapPolymers" count="5"/>
+</recipe>
+
+<recipe name="modMeleeDiamondTip" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceRawDiamond" count="3"/>
+</recipe>
+
+<recipe name="modMeleeBunkerBuster" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeClubBarbedWire" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeClubBurningShaft" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceOil" count="5"/>
+	<ingredient name="ammoGasCan" count="50"/>
+</recipe>
+
+<recipe name="modMeleeClubMetalSpikes" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeClubMetalChain" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeErgonomicGrip" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeFortifyingGrip" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeFiremansAxeMod" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeGraveDigger" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeIronBreaker" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeSerratedBlade" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeStructuralBrace" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeTemperedBlade" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedSteel" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeWeightedHead" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modMeleeWoodSplitter" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="modShotgunSawedOffBarrel" count="1" craft_area="workbench" tags="learnable,workbenchCrafting">
+	<ingredient name="resourceForgedIron" count="5"/>
+	<ingredient name="resourceGlue" count="5"/>
+	<ingredient name="resourceMechanicalParts" count="5"/>
+	<ingredient name="resourceSpring" count="10"/>
+</recipe>
+
+<recipe name="vehicle4x4TruckPlaceable" count="1" craft_time="210" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="vehicleWheels" count="4"/>
+	<ingredient name="vehicle4x4TruckChassis" count="1"/>
+	<ingredient name="vehicle4x4TruckAccessories" count="1"/>
+	<ingredient name="smallEngine" count="1"/>
+	<ingredient name="carBattery" count="1"/>
+</recipe>
+
+<recipe name="vehicleBicyclePlaceable" count="1" craft_time="30" tags="workbenchCrafting">
+	<ingredient name="vehicleWheels" count="2"/>
+	<ingredient name="vehicleBicycleChassis" count="1"/>
+	<ingredient name="vehicleBicycleHandlebars" count="1"/>
+	<ingredient name="resourceMechanicalParts" count="1"/>
+</recipe>
+
+<recipe name="vehicleGyrocopterPlaceable" count="1" craft_time="270" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="vehicleWheels" count="3"/>
+	<ingredient name="vehicleGyroCopterChassis" count="1"/>
+	<ingredient name="vehicleGyroCopterAccessories" count="1"/>
+	<ingredient name="smallEngine" count="1"/>
+	<ingredient name="carBattery" count="1"/>
+</recipe>
+
+<recipe name="vehicleMinibikePlaceable" count="1" craft_time="90" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="vehicleWheels" count="2"/>
+	<ingredient name="vehicleMinibikeChassis" count="1"/>
+	<ingredient name="vehicleMinibikeHandlebars" count="1"/>
+	<ingredient name="smallEngine" count="1"/>
+	<ingredient name="carBattery" count="1"/>
+</recipe>
+
+<recipe name="vehicleMotorcyclePlaceable" count="1" craft_time="150" craft_area="workbench" tags="workbenchCrafting">
+	<ingredient name="vehicleWheels" count="2"/>
+	<ingredient name="vehicleMotorcycleChassis" count="1"/>
+	<ingredient name="vehicleMotorcycleHandlebars" count="1"/>
+	<ingredient name="smallEngine" count="1"/>
+	<ingredient name="carBattery" count="1"/>
+</recipe>
+	</set>
+
+</config>
