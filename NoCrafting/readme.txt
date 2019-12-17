@@ -1,4 +1,5 @@
 No Crafting MOD, with QoL
+For 7 Days to Die A18
 
 This is a simple mod to use when you want to do a No Crafting playthrough.
 Not all files are necessary.
