@@ -1,2 +1,2 @@
 # Mods
-7 days and other game mods
+7 Days to Die game mods
