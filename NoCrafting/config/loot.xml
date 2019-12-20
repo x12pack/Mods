@@ -9,7 +9,7 @@
 	<item group="groupArmorScaled" prob="0.75"/>
 	<item name="resourceMilitaryFiber" count="3,6" prob="1.5"/>
 	<item name="armorSwatHelmet" mods="modArmorHelmetLight" mod_chance=".8" prob="0.15"/>
-	<item group="groupApparelHazmat" prob="0.25"/>
+	<item group="groupApparelHazmat" prob="0.05"/>
 	<item group="groupAmmoRegular" count="2,3" prob="5"/>
 	<item group="groupWeaponsScaled" prob="1.4"/>
 	<item name="apparelNightvisionGoggles" loot_prob_template="probTemplate1.0"/>
@@ -37,8 +37,10 @@
 	<item group="electricalDevices" prob=".7"/>
 	<item group="cannedfood" count="1,2" prob=".5"/>
 	<item name="woodFrameBlockVariantHelper" count="10,30" prob=".5"/>
+	<item name="woodBars" count="2,6" prob=".25"/>
 	<item name="resourceRepairKit" count="1,4" prob=".5"/>
 	<item name="oldCash" count="300,900" prob=".75"/>
+	<item name="flagstoneBlockVariantHelper" count="10,30" prob=".25"/>
 </lootcontainer>
 
 <!-- EntityLootContainerLab, rare random drop from lab technician -->
@@ -60,7 +62,7 @@
 
 <!-- EntityLootContainerHazmat, rare random drop from hazmat suit guy -->
 <lootcontainer id="135" count="2,4" size="6,3" destroy_on_close="false" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1" loot_quality_template="qualPlus1Template">
-	<item group="groupApparelHazmat" prob="2.25"/>
+	<item group="groupApparelHazmat" prob="1.25"/>
 	<item group="groupApparelClothes" prob="1.5"/>
 	<item group="groupAmmoRegular" count="1,2" prob=".5"/>
 </lootcontainer>
