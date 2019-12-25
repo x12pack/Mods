@@ -2,6 +2,11 @@
 
 	<setattribute xpath="/lootcontainers/lootcontainer[@id='10']" name="destroy_on_close">true</setattribute>  <!-- garbage -->
 
+<append xpath="lootcontainers/lootgroup[@name='workingStiffs']">
+	<item name="flagstoneBlockVariantHelper" count="10,30"/>
+	<item name="woodHatch1_v1" count="1"/>
+	<item name="woodBars" count="10,30"/>
+</append>
 	<append xpath="lootcontainers">
 
 <!-- EntityLootContainerSoldier, rare random drop from Eddie -->
@@ -37,10 +42,11 @@
 	<item group="electricalDevices" prob=".7"/>
 	<item group="cannedfood" count="1,2" prob=".5"/>
 	<item name="woodFrameBlockVariantHelper" count="10,30" prob=".5"/>
-	<item name="woodBars" count="2,6" prob=".25"/>
+	<item name="woodBars" count="5,15" prob=".5"/>
 	<item name="resourceRepairKit" count="1,4" prob=".5"/>
 	<item name="oldCash" count="300,900" prob=".75"/>
-	<item name="flagstoneBlockVariantHelper" count="10,30" prob=".25"/>
+	<item name="flagstoneBlockVariantHelper" count="5,15" prob=".25"/>
+	<item name="woodHatch1_v1" count="1"/>
 </lootcontainer>
 
 <!-- EntityLootContainerLab, rare random drop from lab technician -->
